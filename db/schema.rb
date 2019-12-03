@@ -20,5 +20,5 @@ ActiveRecord::Schema.define(version: 2) do
     t.string "name"
     t.integer "owner_id"
   end
-
+end 
 end
